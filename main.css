@@ -1,0 +1,200 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+header{
+	background-color: yellow;
+	width:100%;
+	height: 75px;
+	position: fixed;
+}
+
+.ancho{
+	background:#fff;
+	width: 100%;
+	height: 75px;
+	margin: auto;
+
+}
+
+.Icon{
+	
+	width: 10%;
+	height: 75px;
+	float: left;
+}
+/*icono de pinterest*/
+
+.fa-stack{
+margin-left: 45px;
+padding-top: 15px;
+
+}
+.fa-stack-2x{
+	color: #BD081C;
+}
+
+.search{
+	background: #efefef;
+	width: 50%;
+	height: 50px;
+	float: left;
+	margin-top: 15px;
+	border-top-left-radius: 10px;
+	border-bottom-left-radius: 10px;
+	
+
+}
+
+
+
+.search i{
+    margin-left: 19px;
+	margin-top: 11px;
+	font-size: 20px;
+
+	
+}
+
+.extras{
+	background: #efefef;
+	width: 19%;
+	height: 50px;
+	float: left;
+	margin-top: 15px;
+	border-top-right-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+
+.extras ul{
+	padding-top: 10px;
+	font-size: 20px;
+	margin-left: 100px;
+
+}
+
+.extras ul li{
+	display: inline;
+	font-family: "source sans pro",sans-serif;
+
+
+}
+
+.restantes ul li{
+	display: inline;
+	margin: 20px;
+
+}
+
+.restantes{
+    
+    width: 19%;
+    height: 50px;
+    margin-top: 15px;
+    float: left;
+}
+
+.restantes ul{
+	font-size: 24px;
+	margin-top: 9px;
+	margin-left: 30px;
+	color: #b5b5b5;
+
+
+}
+
+.ancho-etiquetas{
+	background: #fff;
+	width: 100%;
+	height: 85px;
+}
+
+.etiquetas{
+	margin-left: 100px;
+}
+
+.etiquetas div{
+	display: inline-block;
+	margin: 30px;
+	padding-left: 20px;
+	margin-top: 10px;
+}
+
+p{
+	margin: auto;
+	margin-top: 15px;
+	font-family: "source sans pro",sans-serif;
+
+}
+
+.c1{
+	background-color: #FE9A2E;
+	width:100px;
+	height: 50px;
+	border-radius: 10px;
+	box-shadow: 2px 2px 2px black;
+
+}
+
+.c2{
+	background-color: #BE81F7;
+	width:100px;
+	height: 50px;
+	border-radius: 10px;
+	box-shadow: 2px 2px 2px black;
+}
+.c3{
+	background-color: #81F7BE;
+	width:100px;
+	height: 50px;
+	border-radius: 10px;
+	box-shadow: 2px 2px 2px black;
+}
+.c4{
+	background-color: #5882FA;
+	width:100px;
+	height: 50px;
+	border-radius: 10px;
+	box-shadow: 2px 2px 2px black;
+}
+.c5{
+	background-color: #A5DF00;
+	width:100px;
+	height: 50px;
+	border-radius: 10px;
+	box-shadow: 2px 2px 2px black;
+}
+.c6{
+	background-color: #F781F3;
+	width:100px;
+	height: 50px;
+	border-radius: 10px;
+	box-shadow: 2px 2px 2px black;
+}
+
+hr{
+	color: #efefef;
+}
+input{
+	position: fixed;
+	left: 200px;
+	right: 880px;
+	top: 26px;
+	width: 52%;
+	height: 30px;
+	border: none;
+	background-color: #efefef ;
+
+
+}
+
+
+
+
+
+
+
+
+	
+	
